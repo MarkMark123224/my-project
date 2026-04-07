@@ -4,7 +4,8 @@
 python -m venv venv
 
 ## Активація
-venv\Scripts\activate
+Windows: venv\Scripts\activate
+Linux: source venv\Scripts\activate
 
 ## Встановлення бібліотек
 pip install requests
