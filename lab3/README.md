@@ -7,7 +7,7 @@ make
 ## Очистка
 make clean
 
-#№ Запуск через Docker
+## Запуск через Docker
 docker build -t cpp-app .
 docker run --rm cpp-app
 
