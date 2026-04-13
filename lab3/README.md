@@ -1,5 +1,6 @@
-# Bike Rental App
+# Lab3_Python
 
+## Bike Rental App
 ## Запуск локально
 make
 ./app
