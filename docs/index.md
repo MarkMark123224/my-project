@@ -15,4 +15,4 @@ MarkMark123224
 - lab3
 - lab4
 - lab5
-- lab6
+- docs
